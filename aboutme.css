@@ -1,5 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Island+Moments&display=swap');
+
 body{ 
-    background-image: url(Background.jpg)
+    background-image: url(Background.jpg);
+	
 } 
 
 h1{ 
@@ -12,7 +15,7 @@ h1{
 
 p{ 
    color:#030bfc;
-   font-family:cursive;
+   font-family: 'Island Moments', cursive;
    font-size:20px;
    
   
